@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Appenders>
+		<Console name="CONSOLE" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{Z HH:mm:ss,SSS} %t: %c %M %F %L %level{lowerCase=true} %m%n"/>
+		</Console>
+	</Appenders>
+	<Loggers>
+
+		<Logger additivity="false" name="tmp.cloudkitchen" level="info">
+			<AppenderRef ref="CONSOLE"/>
+		</Logger>
+
+		<Root additivity="false" level="warn">
+			<AppenderRef ref="CONSOLE"/>
+		</Root>
+	</Loggers>
+</Configuration>

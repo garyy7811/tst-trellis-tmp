@@ -1,0 +1,6030 @@
+[
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-10-20",
+		"renewalDate": "2021-04-21",
+		"policyTermMonths": 6,
+		"premiumCents": 50419,
+		"policyHolder": {
+			"name": {
+				"firstName": "Lucas",
+				"middleName": "",
+				"lastName": "Walker"
+			},
+			"address": {
+				"number": "35",
+				"street": "Spooner",
+				"type": "Cir",
+				"suffix": "E",
+				"city": "Flossie",
+				"state": "MI",
+				"zip": "31659",
+				"plus4": "4368"
+			},
+			"phoneNumber": "(655) 740-0016"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Lucas",
+					"middleName": "",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "1969-03-19",
+					"end": "1969-03-19"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ariana",
+					"middleName": "C",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "1968-08-04",
+					"end": "1968-08-04"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ella",
+					"middleName": "",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "2001-01-12",
+					"end": "2001-01-12"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "wawanesa",
+		"issueDate": "2020-09-07",
+		"renewalDate": "2021-03-08",
+		"policyTermMonths": 6,
+		"premiumCents": 70895,
+		"policyHolder": {
+			"name": {
+				"firstName": "Sophia",
+				"middleName": "",
+				"lastName": "Hill"
+			},
+			"address": {
+				"number": "885",
+				"street": "Spooner",
+				"type": "St",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "693",
+				"city": "Ceciliatown",
+				"state": "MA",
+				"zip": "33833"
+			},
+			"email": "Sophia.Hill915@hotmail.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Sophia",
+					"middleName": "",
+					"lastName": "Hill"
+				},
+				"birthdayRange": {
+					"start": "1998-12-19",
+					"end": "1999-12-18"
+				},
+				"gender": "female",
+				"driversLicenseState": "MA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****0551",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-10-30",
+		"renewalDate": "2021-05-01",
+		"policyTermMonths": 6,
+		"premiumCents": 86413,
+		"policyHolder": {
+			"name": {
+				"firstName": "Maya",
+				"middleName": "",
+				"lastName": "Jackson"
+			},
+			"address": {
+				"number": "96",
+				"street": "Park",
+				"type": "Pkwy",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "647",
+				"city": "Bradlystad",
+				"state": "FL",
+				"zip": "67068",
+				"plus4": "0358"
+			},
+			"email": "Maya.Jackson842@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Maya",
+					"middleName": "",
+					"lastName": "Jackson"
+				},
+				"birthdayRange": {
+					"start": "1958-04-02",
+					"end": "1958-04-02"
+				},
+				"gender": "female",
+				"driversLicenseState": "FL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX6637",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ben",
+					"middleName": "B",
+					"lastName": "Jackson"
+				},
+				"birthdayRange": {
+					"start": "1953-02-18",
+					"end": "1953-02-18"
+				},
+				"gender": "male",
+				"driversLicenseState": "FL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****9270",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Victor",
+					"middleName": "",
+					"lastName": "Jackson"
+				},
+				"birthdayRange": {
+					"start": "1999-05-01",
+					"end": "1999-05-01"
+				},
+				"gender": "male",
+				"driversLicenseState": "FL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****4475",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "statefarm",
+		"issueDate": "2020-10-24",
+		"renewalDate": "2021-04-25",
+		"policyTermMonths": 6,
+		"premiumCents": 68446,
+		"policyHolder": {
+			"name": {
+				"firstName": "Jennifer",
+				"middleName": "K",
+				"lastName": "Scott"
+			},
+			"address": {
+				"number": "871",
+				"street": "Channing",
+				"type": "Way",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "295",
+				"city": "Orinbury",
+				"state": "ID",
+				"zip": "13328",
+				"plus4": "6905"
+			},
+			"email": "Jennifer.Scott241@hotmail.com",
+			"phoneNumber": "(266) 214-0087"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Jennifer",
+					"middleName": "K",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1984-07-16",
+					"end": "1985-07-15"
+				},
+				"gender": "female",
+				"driversLicenseState": "ID",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL683289",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Daniel",
+					"middleName": "",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1986-09-09",
+					"end": "1987-09-08"
+				},
+				"gender": "male",
+				"driversLicenseState": "ID",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL284367",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-10-05",
+		"renewalDate": "2021-04-06",
+		"policyTermMonths": 6,
+		"premiumCents": 63044,
+		"policyHolder": {
+			"name": {
+				"firstName": "Lily",
+				"middleName": "",
+				"lastName": "Hill"
+			},
+			"address": {
+				"number": "434",
+				"street": "Park",
+				"type": "Way",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "732",
+				"city": "Pfannerstillville",
+				"state": "HI",
+				"zip": "79133"
+			},
+			"email": "Lily.Hill844@gmail.com",
+			"phoneNumber": "(668) 747-7505"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Lily",
+					"middleName": "",
+					"lastName": "Hill"
+				},
+				"birthdayRange": {
+					"start": "1984-11-27",
+					"end": "1984-11-27"
+				},
+				"gender": "female",
+				"driversLicenseState": "HI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX4868",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ian",
+					"middleName": "M",
+					"lastName": "Hill"
+				},
+				"birthdayRange": {
+					"start": "1980-09-30",
+					"end": "1980-09-30"
+				},
+				"gender": "male",
+				"driversLicenseState": "HI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****7633",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "wawanesa",
+		"issueDate": "2020-12-08",
+		"renewalDate": "2021-06-08",
+		"policyTermMonths": 6,
+		"premiumCents": 86444,
+		"policyHolder": {
+			"name": {
+				"firstName": "Alice",
+				"middleName": "A",
+				"lastName": "White"
+			},
+			"address": {
+				"number": "383",
+				"street": "Channing Court Apt 462",
+				"type": "Prt",
+				"city": "Gerson",
+				"state": "AR",
+				"zip": "57496"
+			}
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Alice",
+					"middleName": "A",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "1975-12-14",
+					"end": "1976-12-12"
+				},
+				"gender": "female",
+				"driversLicenseState": "AR",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX0409",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Linda",
+					"middleName": "",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "2000-04-25",
+					"end": "2001-04-24"
+				},
+				"gender": "female",
+				"driversLicenseState": "AR",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX2389",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "root",
+		"issueDate": "2020-10-10",
+		"renewalDate": "2021-04-11",
+		"policyTermMonths": 6,
+		"premiumCents": 42600,
+		"policyHolder": {
+			"name": {
+				"firstName": "Sabrina",
+				"middleName": "",
+				"lastName": "Harris"
+			},
+			"address": {
+				"number": "972",
+				"street": "Aspen",
+				"type": "Way",
+				"city": "Gorczanyside",
+				"state": "CT",
+				"zip": "48390",
+				"plus4": "7299"
+			},
+			"email": "Sabrina.Harris223@me.com",
+			"phoneNumber": "(862) 950-5969"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "",
+					"lastName": "Harris"
+				},
+				"birthdayRange": {
+					"start": "1990-11-26",
+					"end": "1990-11-26"
+				},
+				"gender": "female",
+				"driversLicenseState": "CT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL391183",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "statefarm",
+		"issueDate": "2020-09-13",
+		"renewalDate": "2021-03-14",
+		"policyTermMonths": 6,
+		"premiumCents": 42031,
+		"policyHolder": {
+			"name": {
+				"firstName": "Mia",
+				"middleName": "",
+				"lastName": "Allen"
+			},
+			"address": {
+				"number": "84",
+				"street": "Washington",
+				"type": "Ln",
+				"city": "Heaneyside",
+				"state": "VA",
+				"zip": "17207",
+				"plus4": "2689"
+			},
+			"email": "Mia.Allen487@aol.com",
+			"phoneNumber": "(304) 882-0221"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Mia",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1958-10-03",
+					"end": "1958-10-03"
+				},
+				"gender": "female",
+				"driversLicenseState": "VA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX9726",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Nick",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1962-01-27",
+					"end": "1962-01-27"
+				},
+				"gender": "male",
+				"driversLicenseState": "VA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****5063",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "David",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "2003-07-26",
+					"end": "2003-07-26"
+				},
+				"gender": "male",
+				"driversLicenseState": "VA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****0110",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2020-11-21",
+		"renewalDate": "2021-05-21",
+		"policyTermMonths": 6,
+		"premiumCents": 49243,
+		"policyHolder": {
+			"name": {
+				"firstName": "Anna",
+				"middleName": "",
+				"lastName": "Martin"
+			},
+			"address": {
+				"number": "968",
+				"street": "Cypress Circle",
+				"type": "Prt",
+				"city": "Haileeland",
+				"state": "VA",
+				"zip": "60725"
+			},
+			"email": "Anna.Martin834@aol.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Anna",
+					"middleName": "",
+					"lastName": "Martin"
+				},
+				"birthdayRange": {
+					"start": "1972-10-18",
+					"end": "1972-10-18"
+				},
+				"gender": "female",
+				"driversLicenseState": "VA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL682997",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Evan",
+					"middleName": "",
+					"lastName": "Martin"
+				},
+				"birthdayRange": {
+					"start": "1971-07-24",
+					"end": "1971-07-24"
+				},
+				"gender": "male",
+				"driversLicenseState": "VA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL844089",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-12-21",
+		"renewalDate": "2021-06-21",
+		"policyTermMonths": 6,
+		"premiumCents": 87091,
+		"policyHolder": {
+			"name": {
+				"firstName": "Edith",
+				"middleName": "",
+				"lastName": "Allen"
+			},
+			"address": {
+				"city": "North Austyn",
+				"state": "WV",
+				"zip": "94224"
+			},
+			"email": "Edith.Allen539@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Edith",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1999-08-28",
+					"end": "1999-08-28"
+				},
+				"gender": "female",
+				"driversLicenseState": "WV",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX4450",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Evan",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "2000-09-27",
+					"end": "2000-09-27"
+				},
+				"gender": "male",
+				"driversLicenseState": "WV",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****7139",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-12-24",
+		"renewalDate": "2021-06-24",
+		"policyTermMonths": 6,
+		"premiumCents": 67852,
+		"policyHolder": {
+			"name": {
+				"firstName": "Anna",
+				"middleName": "",
+				"lastName": "Torres"
+			},
+			"address": {
+				"number": "7",
+				"street": "Holly",
+				"type": "Ave",
+				"city": "Jazmynemouth",
+				"state": "IN",
+				"zip": "16632",
+				"plus4": "8806"
+			},
+			"email": "Anna.Torres195@aol.com",
+			"phoneNumber": "(908) 410-4343"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Anna",
+					"middleName": "",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1987-01-18",
+					"end": "1987-01-18"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ian",
+					"middleName": "",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1988-09-11",
+					"end": "1988-09-11"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2020-09-12",
+		"renewalDate": "2021-03-13",
+		"policyTermMonths": 6,
+		"premiumCents": 68464,
+		"policyHolder": {
+			"name": {
+				"firstName": "David",
+				"middleName": "",
+				"lastName": "Wright"
+			},
+			"address": {
+				"number": "584",
+				"street": "Apache Street",
+				"type": "Lk",
+				"city": "Linamouth",
+				"state": "NV",
+				"zip": "37238",
+				"plus4": "8330"
+			},
+			"email": "David.Wright709@me.com",
+			"phoneNumber": "(212) 412-3535"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "David",
+					"middleName": "",
+					"lastName": "Wright"
+				},
+				"birthdayRange": {
+					"start": "1962-09-19",
+					"end": "1962-09-19"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Linda",
+					"middleName": "",
+					"lastName": "Wright"
+				},
+				"birthdayRange": {
+					"start": "1957-07-13",
+					"end": "1957-07-13"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Homer",
+					"middleName": "",
+					"lastName": "Wright"
+				},
+				"birthdayRange": {
+					"start": "2000-09-21",
+					"end": "2000-09-21"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2021-01-05",
+		"renewalDate": "2021-07-05",
+		"policyTermMonths": 6,
+		"premiumCents": 66613,
+		"policyHolder": {
+			"name": {
+				"firstName": "Charlotte",
+				"middleName": "",
+				"lastName": "Lee"
+			},
+			"address": {
+				"number": "153",
+				"street": "Pine",
+				"type": "Ave",
+				"suffix": "N",
+				"city": "Izabella",
+				"state": "SD",
+				"zip": "84327",
+				"plus4": "7280"
+			}
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Charlotte",
+					"middleName": "",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1996-03-01",
+					"end": "1996-03-31"
+				},
+				"gender": "female",
+				"driversLicenseState": "SD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL553563",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Charlie",
+					"middleName": "",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1992-06-01",
+					"end": "1992-06-30"
+				},
+				"gender": "male",
+				"driversLicenseState": "SD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL812261",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2021-01-06",
+		"renewalDate": "2021-07-06",
+		"policyTermMonths": 6,
+		"premiumCents": 54688,
+		"policyHolder": {
+			"name": {
+				"firstName": "Jacob",
+				"middleName": "",
+				"lastName": "Wright"
+			},
+			"address": {
+				"number": "3",
+				"street": "Holly",
+				"type": "Pkwy",
+				"city": "McCulloughborough",
+				"state": "OH",
+				"zip": "63173",
+				"plus4": "6779"
+			},
+			"phoneNumber": "(868) 532-9003"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Jacob",
+					"middleName": "",
+					"lastName": "Wright"
+				},
+				"birthdayRange": {
+					"start": "1971-02-27",
+					"end": "1972-02-26"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Edith",
+					"middleName": "X",
+					"lastName": "Wright"
+				},
+				"birthdayRange": {
+					"start": "1971-05-25",
+					"end": "1972-05-23"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Andrew",
+					"middleName": "",
+					"lastName": "Wright"
+				},
+				"birthdayRange": {
+					"start": "1999-06-12",
+					"end": "2000-06-10"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2020-10-04",
+		"renewalDate": "2021-04-05",
+		"policyTermMonths": 6,
+		"premiumCents": 74466,
+		"policyHolder": {
+			"name": {
+				"firstName": "Maya",
+				"middleName": "",
+				"lastName": "Sanchez"
+			},
+			"address": {
+				"number": "932",
+				"street": "Elm Circle Apt 975",
+				"type": "Prt",
+				"city": "Delbert",
+				"state": "NY",
+				"zip": "68473",
+				"plus4": "3802"
+			},
+			"email": "Maya.Sanchez395@yahoo.com",
+			"phoneNumber": "(204) 329-7479"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Maya",
+					"middleName": "",
+					"lastName": "Sanchez"
+				},
+				"birthdayRange": {
+					"start": "1993-09-26",
+					"end": "1993-09-26"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Jacob",
+					"middleName": "",
+					"lastName": "Sanchez"
+				},
+				"birthdayRange": {
+					"start": "1988-07-02",
+					"end": "1988-07-02"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-11-29",
+		"renewalDate": "2021-05-29",
+		"policyTermMonths": 6,
+		"premiumCents": 69647,
+		"policyHolder": {
+			"name": {
+				"firstName": "Joseph",
+				"middleName": "Z",
+				"lastName": "Lee"
+			},
+			"address": {
+				"number": "487",
+				"street": "Maple Street Suite 326",
+				"type": "Prt",
+				"city": "Frederiquechester",
+				"state": "WA",
+				"zip": "09726"
+			},
+			"email": "Joseph.Lee241@yahoo.com",
+			"phoneNumber": "(995) 500-3576"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Joseph",
+					"middleName": "Z",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1973-09-10",
+					"end": "1973-09-10"
+				},
+				"gender": "male",
+				"driversLicenseState": "WA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL654490",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Amanda",
+					"middleName": "",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1972-04-05",
+					"end": "1972-04-05"
+				},
+				"gender": "female",
+				"driversLicenseState": "WA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL120209",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2020-12-16",
+		"renewalDate": "2021-06-16",
+		"policyTermMonths": 6,
+		"premiumCents": 83467,
+		"policyHolder": {
+			"name": {
+				"firstName": "Penelope",
+				"middleName": "",
+				"lastName": "Taylor"
+			},
+			"address": {
+				"number": "398",
+				"street": "Broadway",
+				"type": "Ave",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "720",
+				"city": "Labadieville",
+				"state": "MD",
+				"zip": "99224"
+			},
+			"email": "Penelope.Taylor811@yahoo.com",
+			"phoneNumber": "(800) 632-0649"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Penelope",
+					"middleName": "",
+					"lastName": "Taylor"
+				},
+				"birthdayRange": {
+					"start": "1998-01-13",
+					"end": "1998-01-13"
+				},
+				"gender": "female",
+				"driversLicenseState": "MD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX7572",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "David",
+					"middleName": "",
+					"lastName": "Taylor"
+				},
+				"birthdayRange": {
+					"start": "1997-12-31",
+					"end": "1997-12-31"
+				},
+				"gender": "male",
+				"driversLicenseState": "MD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX3451",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2020-09-29",
+		"renewalDate": "2021-03-30",
+		"policyTermMonths": 6,
+		"premiumCents": 81677,
+		"policyHolder": {
+			"name": {
+				"firstName": "Charlotte",
+				"middleName": "H",
+				"lastName": "Young"
+			},
+			"address": {
+				"number": "460",
+				"street": "Garfield Circle",
+				"type": "Lk",
+				"city": "Connor",
+				"state": "VT",
+				"zip": "40577"
+			},
+			"email": "Charlotte.Young263@aol.com",
+			"phoneNumber": "(338) 481-2745"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Charlotte",
+					"middleName": "H",
+					"lastName": "Young"
+				},
+				"birthdayRange": {
+					"start": "1958-08-23",
+					"end": "1958-08-23"
+				},
+				"gender": "female",
+				"driversLicenseState": "VT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL929364",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-10-27",
+		"renewalDate": "2021-04-28",
+		"policyTermMonths": 6,
+		"premiumCents": 61810,
+		"policyHolder": {
+			"name": {
+				"firstName": "Vitoria",
+				"middleName": "",
+				"lastName": "Thompson"
+			},
+			"address": {
+				"number": "734",
+				"street": "Quail",
+				"type": "Way",
+				"city": "Considineport",
+				"state": "FL",
+				"zip": "53820",
+				"plus4": "3768"
+			},
+			"email": "Vitoria.Thompson200@aol.com",
+			"phoneNumber": "(478) 329-2594"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Vitoria",
+					"middleName": "",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {},
+				"gender": "female",
+				"driversLicenseState": "FL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX3169",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Jack",
+					"middleName": "K",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {},
+				"gender": "male",
+				"driversLicenseState": "FL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX9593",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-11-30",
+		"renewalDate": "2021-05-30",
+		"policyTermMonths": 6,
+		"premiumCents": 45072,
+		"policyHolder": {
+			"name": {
+				"firstName": "Matthew",
+				"middleName": "",
+				"lastName": "King"
+			},
+			"address": {
+				"city": "East Chaya",
+				"state": "CA",
+				"zip": "78694",
+				"plus4": "2449"
+			},
+			"email": "Matthew.King466@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Matthew",
+					"middleName": "",
+					"lastName": "King"
+				},
+				"birthdayRange": {
+					"start": "1971-02-07",
+					"end": "1971-02-07"
+				},
+				"gender": "male",
+				"driversLicenseState": "CA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX0377",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Jennifer",
+					"middleName": "",
+					"lastName": "King"
+				},
+				"birthdayRange": {
+					"start": "1975-08-16",
+					"end": "1975-08-16"
+				},
+				"gender": "female",
+				"driversLicenseState": "CA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****0084",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-09-25",
+		"renewalDate": "2021-03-26",
+		"policyTermMonths": 6,
+		"premiumCents": 56423,
+		"policyHolder": {
+			"name": {
+				"firstName": "Scarlett",
+				"middleName": "",
+				"lastName": "Moore"
+			},
+			"address": {
+				"city": "Johnstonside",
+				"state": "CA",
+				"zip": "97782"
+			},
+			"email": "Scarlett.Moore693@me.com",
+			"phoneNumber": "(732) 371-4760"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Scarlett",
+					"middleName": "",
+					"lastName": "Moore"
+				},
+				"birthdayRange": {
+					"start": "1996-12-12",
+					"end": "1997-12-11"
+				},
+				"gender": "female",
+				"driversLicenseState": "CA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL272423",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "travelers",
+		"issueDate": "2021-01-09",
+		"renewalDate": "2021-07-09",
+		"policyTermMonths": 6,
+		"premiumCents": 71479,
+		"policyHolder": {
+			"name": {
+				"firstName": "Joshua",
+				"middleName": "",
+				"lastName": "White"
+			},
+			"address": {
+				"number": "175",
+				"street": "Maple Parkway",
+				"type": "Prt",
+				"city": "Reilly",
+				"state": "MD",
+				"zip": "50172"
+			},
+			"email": "Joshua.White375@yahoo.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Joshua",
+					"middleName": "",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "1971-04-16",
+					"end": "1971-04-16"
+				},
+				"gender": "male",
+				"driversLicenseState": "MD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX4147",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Marge",
+					"middleName": "",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "1967-11-11",
+					"end": "1967-11-11"
+				},
+				"gender": "female",
+				"driversLicenseState": "MD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX2369",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2020-12-01",
+		"renewalDate": "2021-05-31",
+		"policyTermMonths": 6,
+		"premiumCents": 61295,
+		"policyHolder": {
+			"name": {
+				"firstName": "Maya",
+				"middleName": "",
+				"lastName": "King"
+			},
+			"address": {
+				"city": "New Millie",
+				"state": "OR",
+				"zip": "55019",
+				"plus4": "0409"
+			},
+			"phoneNumber": "(580) 505-1847"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Maya",
+					"middleName": "",
+					"lastName": "King"
+				},
+				"birthdayRange": {
+					"start": "1989-08-17",
+					"end": "1989-08-17"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Terry",
+					"middleName": "",
+					"lastName": "King"
+				},
+				"birthdayRange": {
+					"start": "1986-10-07",
+					"end": "1986-10-07"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2021-01-15",
+		"renewalDate": "2021-07-15",
+		"policyTermMonths": 6,
+		"premiumCents": 81069,
+		"policyHolder": {
+			"name": {
+				"firstName": "Anna",
+				"middleName": "",
+				"lastName": "Lee"
+			},
+			"address": {
+				"number": "944",
+				"street": "Walnut",
+				"type": "Way",
+				"city": "Nedside",
+				"state": "AZ",
+				"zip": "55269",
+				"plus4": "2504"
+			},
+			"email": "Anna.Lee755@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Anna",
+					"middleName": "",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1981-08-29",
+					"end": "1981-08-29"
+				},
+				"gender": "female",
+				"driversLicenseState": "AZ",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL631451",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "root",
+		"issueDate": "2020-12-26",
+		"renewalDate": "2021-06-26",
+		"policyTermMonths": 6,
+		"premiumCents": 45675,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ryan",
+				"middleName": "",
+				"lastName": "Torres"
+			},
+			"address": {
+				"number": "284",
+				"street": "Maple",
+				"type": "Way",
+				"city": "Ferryberg",
+				"state": "KS",
+				"zip": "50225",
+				"plus4": "3483"
+			},
+			"email": "Ryan.Torres559@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ryan",
+					"middleName": "",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1975-03-14",
+					"end": "1975-03-14"
+				},
+				"gender": "male",
+				"driversLicenseState": "KS",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL848290",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Charlotte",
+					"middleName": "",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1976-01-06",
+					"end": "1976-01-06"
+				},
+				"gender": "female",
+				"driversLicenseState": "KS",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL748333",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2020-09-16",
+		"renewalDate": "2021-03-17",
+		"policyTermMonths": 6,
+		"premiumCents": 57633,
+		"policyHolder": {
+			"name": {
+				"firstName": "Adam",
+				"middleName": "",
+				"lastName": "Walker"
+			},
+			"address": {
+				"number": "823",
+				"street": "Spooner Lane",
+				"type": "Prt",
+				"city": "Luz",
+				"state": "MD",
+				"zip": "66720",
+				"plus4": "4114"
+			},
+			"phoneNumber": "(305) 947-5333"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Adam",
+					"middleName": "",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "1984-01-13",
+					"end": "1985-01-11"
+				},
+				"gender": "male",
+				"driversLicenseState": "MD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL023459",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Marge",
+					"middleName": "",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "1988-03-08",
+					"end": "1989-03-07"
+				},
+				"gender": "female",
+				"driversLicenseState": "MD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL028785",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "root",
+		"issueDate": "2020-10-01",
+		"renewalDate": "2021-04-02",
+		"policyTermMonths": 6,
+		"premiumCents": 82235,
+		"policyHolder": {
+			"name": {
+				"firstName": "Terry",
+				"middleName": "",
+				"lastName": "Flores"
+			},
+			"address": {
+				"number": "426",
+				"street": "Oak",
+				"type": "Ave",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "505",
+				"city": "New Skyeview",
+				"state": "VA",
+				"zip": "83504",
+				"plus4": "7039"
+			},
+			"email": "Terry.Flores230@aol.com",
+			"phoneNumber": "(916) 361-1753"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Terry",
+					"middleName": "",
+					"lastName": "Flores"
+				},
+				"birthdayRange": {
+					"start": "1977-02-06",
+					"end": "1977-02-06"
+				},
+				"gender": "male",
+				"driversLicenseState": "VA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****6354",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Alice",
+					"middleName": "M",
+					"lastName": "Flores"
+				},
+				"birthdayRange": {
+					"start": "1981-12-10",
+					"end": "1981-12-10"
+				},
+				"gender": "female",
+				"driversLicenseState": "VA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****2756",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2021-01-13",
+		"renewalDate": "2021-07-13",
+		"policyTermMonths": 6,
+		"premiumCents": 74470,
+		"policyHolder": {
+			"name": {
+				"firstName": "Alice",
+				"middleName": "B",
+				"lastName": "Robinson"
+			},
+			"address": {
+				"city": "Lake Julietfort",
+				"state": "TN",
+				"zip": "68288",
+				"plus4": "4381"
+			},
+			"email": "Alice.Robinson364@me.com",
+			"phoneNumber": "(875) 716-8442"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Alice",
+					"middleName": "B",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {},
+				"gender": "female",
+				"driversLicenseState": "TN",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL455436",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Joshua",
+					"middleName": "",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {},
+				"gender": "male",
+				"driversLicenseState": "TN",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL247119",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-10-23",
+		"renewalDate": "2021-04-24",
+		"policyTermMonths": 6,
+		"premiumCents": 46801,
+		"policyHolder": {
+			"name": {
+				"firstName": "Jack",
+				"middleName": "U",
+				"lastName": "Ramirez"
+			},
+			"address": {
+				"number": "663",
+				"street": "Main",
+				"type": "Pkwy",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "979",
+				"city": "Carsonville",
+				"state": "AL",
+				"zip": "72613",
+				"plus4": "6485"
+			},
+			"email": "Jack.Ramirez627@gmail.com",
+			"phoneNumber": "(947) 609-3732"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Jack",
+					"middleName": "U",
+					"lastName": "Ramirez"
+				},
+				"birthdayRange": {
+					"start": "1967-10-06",
+					"end": "1967-10-06"
+				},
+				"gender": "male",
+				"driversLicenseState": "AL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****8078",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Alice",
+					"middleName": "",
+					"lastName": "Ramirez"
+				},
+				"birthdayRange": {
+					"start": "1967-12-08",
+					"end": "1967-12-08"
+				},
+				"gender": "female",
+				"driversLicenseState": "AL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****2573",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "",
+					"lastName": "Ramirez"
+				},
+				"birthdayRange": {
+					"start": "2002-03-14",
+					"end": "2002-03-14"
+				},
+				"gender": "female",
+				"driversLicenseState": "AL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****9201",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2020-09-24",
+		"renewalDate": "2021-03-25",
+		"policyTermMonths": 6,
+		"premiumCents": 48093,
+		"policyHolder": {
+			"name": {
+				"firstName": "Edith",
+				"middleName": "",
+				"lastName": "Wilson"
+			},
+			"address": {
+				"number": "313",
+				"street": "Park Avenue Suite 664",
+				"type": "Lk",
+				"city": "Davinmouth",
+				"state": "OH",
+				"zip": "91053"
+			}
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Edith",
+					"middleName": "",
+					"lastName": "Wilson"
+				},
+				"birthdayRange": {
+					"start": "1986-12-13",
+					"end": "1986-12-13"
+				},
+				"gender": "female",
+				"driversLicenseState": "OH",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX3793",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ethan",
+					"middleName": "T",
+					"lastName": "Wilson"
+				},
+				"birthdayRange": {
+					"start": "1983-03-22",
+					"end": "1983-03-22"
+				},
+				"gender": "male",
+				"driversLicenseState": "OH",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****5860",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "esurance",
+		"issueDate": "2020-12-16",
+		"renewalDate": "2021-06-16",
+		"policyTermMonths": 6,
+		"premiumCents": 61829,
+		"policyHolder": {
+			"name": {
+				"firstName": "Owen",
+				"middleName": "",
+				"lastName": "Torres"
+			},
+			"address": {
+				"number": "479",
+				"street": "Aspen Avenue Apt 512",
+				"suffix": "W",
+				"city": "Blair",
+				"state": "KS",
+				"zip": "52745"
+			},
+			"email": "Owen.Torres444@aol.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Owen",
+					"middleName": "",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1994-12-05",
+					"end": "1994-12-05"
+				},
+				"gender": "male",
+				"driversLicenseState": "KS",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL966602",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Claire",
+					"middleName": "K",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1989-09-03",
+					"end": "1989-09-03"
+				},
+				"gender": "female",
+				"driversLicenseState": "KS",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL673497",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-11-26",
+		"renewalDate": "2021-05-26",
+		"policyTermMonths": 6,
+		"premiumCents": 76855,
+		"policyHolder": {
+			"name": {
+				"firstName": "Nick",
+				"middleName": "",
+				"lastName": "Lewis"
+			},
+			"address": {
+				"number": "348",
+				"street": "Marvin",
+				"type": "Ln",
+				"suffix": "E",
+				"city": "Marielafurt",
+				"state": "OK",
+				"zip": "11841"
+			},
+			"phoneNumber": "(684) 709-2698"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Nick",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "esurance",
+		"issueDate": "2020-09-05",
+		"renewalDate": "2021-03-06",
+		"policyTermMonths": 6,
+		"premiumCents": 50454,
+		"policyHolder": {
+			"name": {
+				"firstName": "Penelope",
+				"middleName": "",
+				"lastName": "Young"
+			},
+			"address": {
+				"city": "Lake Fidelbury",
+				"number": "405",
+				"state": "KY",
+				"street": "Lincoln Street",
+				"zip": "98098",
+				"plus4": "4978"
+			},
+			"email": "Penelope.Young762@me.com",
+			"phoneNumber": "(342) 712-5942"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Penelope",
+					"middleName": "",
+					"lastName": "Young"
+				},
+				"birthdayRange": {
+					"start": "1990-02-08",
+					"end": "1991-02-07"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Homer",
+					"middleName": "",
+					"lastName": "Young"
+				},
+				"birthdayRange": {
+					"start": "1989-05-01",
+					"end": "1990-04-30"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "travelers",
+		"issueDate": "2020-09-21",
+		"renewalDate": "2021-03-22",
+		"policyTermMonths": 6,
+		"premiumCents": 70809,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ryan",
+				"middleName": "",
+				"lastName": "Clark"
+			},
+			"address": {
+				"number": "188",
+				"street": "Two Parkway Suite 131",
+				"type": "Prt",
+				"city": "Jacklyn",
+				"state": "AZ",
+				"zip": "82329"
+			}
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ryan",
+					"middleName": "",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {
+					"start": "1973-08-04",
+					"end": "1973-08-04"
+				},
+				"gender": "male",
+				"driversLicenseState": "AZ",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX4906",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Maya",
+					"middleName": "",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {
+					"start": "1971-02-20",
+					"end": "1971-02-20"
+				},
+				"gender": "female",
+				"driversLicenseState": "AZ",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****1604",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2020-10-23",
+		"renewalDate": "2021-04-24",
+		"policyTermMonths": 6,
+		"premiumCents": 70829,
+		"policyHolder": {
+			"name": {
+				"firstName": "Lucas",
+				"middleName": "",
+				"lastName": "Ramirez"
+			},
+			"address": {
+				"number": "87",
+				"street": "Second",
+				"type": "Pkwy",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "830",
+				"city": "Yasminhaven",
+				"state": "GA",
+				"zip": "66345",
+				"plus4": "0271"
+			},
+			"phoneNumber": "(243) 331-6015"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Lucas",
+					"middleName": "",
+					"lastName": "Ramirez"
+				},
+				"birthdayRange": {
+					"start": "1993-04-23",
+					"end": "1993-04-23"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2020-09-25",
+		"renewalDate": "2021-03-26",
+		"policyTermMonths": 6,
+		"premiumCents": 66643,
+		"policyHolder": {
+			"name": {
+				"firstName": "James",
+				"middleName": "",
+				"lastName": "Sanchez"
+			},
+			"address": {
+				"number": "497",
+				"street": "Dwight",
+				"type": "Ct",
+				"suffix": "E",
+				"city": "Andy",
+				"state": "OK",
+				"zip": "36263"
+			},
+			"email": "James.Sanchez334@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "James",
+					"middleName": "",
+					"lastName": "Sanchez"
+				},
+				"birthdayRange": {
+					"start": "1992-05-29",
+					"end": "1993-05-28"
+				},
+				"gender": "male",
+				"driversLicenseState": "OK",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX5897",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Vitoria",
+					"middleName": "U",
+					"lastName": "Sanchez"
+				},
+				"birthdayRange": {
+					"start": "1994-11-28",
+					"end": "1995-11-27"
+				},
+				"gender": "female",
+				"driversLicenseState": "OK",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****2496",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2021-01-04",
+		"renewalDate": "2021-07-04",
+		"policyTermMonths": 6,
+		"premiumCents": 85281,
+		"policyHolder": {
+			"name": {
+				"firstName": "Lily",
+				"middleName": "",
+				"lastName": "Thomas"
+			},
+			"address": {
+				"number": "225",
+				"street": "Marvin",
+				"type": "Cir",
+				"suffix": "W",
+				"city": "Montyton",
+				"state": "CA",
+				"zip": "80001"
+			},
+			"email": "Lily.Thomas585@aol.com",
+			"phoneNumber": "(866) 375-7742"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Lily",
+					"middleName": "",
+					"lastName": "Thomas"
+				},
+				"birthdayRange": {
+					"start": "1983-07-01",
+					"end": "1983-07-31"
+				},
+				"gender": "female",
+				"driversLicenseState": "CA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL701999",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Victor",
+					"middleName": "",
+					"lastName": "Thomas"
+				},
+				"birthdayRange": {
+					"start": "1980-09-01",
+					"end": "1980-09-30"
+				},
+				"gender": "male",
+				"driversLicenseState": "CA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL833823",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "farmers",
+		"issueDate": "2020-11-29",
+		"renewalDate": "2021-05-29",
+		"policyTermMonths": 6,
+		"premiumCents": 85268,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ariana",
+				"middleName": "",
+				"lastName": "Robinson"
+			},
+			"address": {
+				"number": "601",
+				"street": "Baltimore",
+				"type": "Ct",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "866",
+				"city": "Keeblerbury",
+				"state": "MA",
+				"zip": "07641"
+			},
+			"email": "Ariana.Robinson175@yahoo.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ariana",
+					"middleName": "",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {
+					"start": "1957-08-15",
+					"end": "1957-08-15"
+				},
+				"gender": "female",
+				"driversLicenseState": "MA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL701206",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Joshua",
+					"middleName": "C",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {
+					"start": "1962-06-27",
+					"end": "1962-06-27"
+				},
+				"gender": "male",
+				"driversLicenseState": "MA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL472879",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2020-12-14",
+		"renewalDate": "2021-06-14",
+		"policyTermMonths": 6,
+		"premiumCents": 79271,
+		"policyHolder": {
+			"name": {
+				"firstName": "Terry",
+				"middleName": "",
+				"lastName": "Wilson"
+			},
+			"address": {
+				"number": "229",
+				"street": "Baltimore Circle Apt 404",
+				"suffix": "S",
+				"city": "Jules",
+				"state": "MO",
+				"zip": "39687"
+			},
+			"email": "Terry.Wilson872@aol.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Terry",
+					"middleName": "",
+					"lastName": "Wilson"
+				},
+				"birthdayRange": {
+					"start": "1997-09-19",
+					"end": "1997-09-19"
+				},
+				"gender": "male",
+				"driversLicenseState": "MO",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****4888",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2020-11-29",
+		"renewalDate": "2021-05-29",
+		"policyTermMonths": 6,
+		"premiumCents": 66602,
+		"policyHolder": {
+			"name": {
+				"firstName": "Daniel",
+				"middleName": "",
+				"lastName": "Allen"
+			},
+			"address": {
+				"city": "Port Brendamouth",
+				"state": "IA",
+				"zip": "05038",
+				"plus4": "1457"
+			},
+			"email": "Daniel.Allen552@aol.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Daniel",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1970-12-18",
+					"end": "1970-12-18"
+				},
+				"gender": "male",
+				"driversLicenseState": "IA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL026266",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2021-01-07",
+		"renewalDate": "2021-07-07",
+		"policyTermMonths": 6,
+		"premiumCents": 54679,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ian",
+				"middleName": "",
+				"lastName": "Robinson"
+			},
+			"address": {
+				"number": "742",
+				"street": "Dwight",
+				"type": "Cir",
+				"city": "New Blaze",
+				"state": "MO",
+				"zip": "72099"
+			},
+			"phoneNumber": "(503) 462-5115"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ian",
+					"middleName": "",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {
+					"start": "1980-11-26",
+					"end": "1980-11-26"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Olivia",
+					"middleName": "",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {
+					"start": "1981-01-22",
+					"end": "1981-01-22"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ivy",
+					"middleName": "",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {
+					"start": "2004-09-20",
+					"end": "2004-09-20"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "travelers",
+		"issueDate": "2021-01-10",
+		"renewalDate": "2021-07-10",
+		"policyTermMonths": 6,
+		"premiumCents": 48027,
+		"policyHolder": {
+			"name": {
+				"firstName": "Hailey",
+				"middleName": "",
+				"lastName": "Thomas"
+			},
+			"address": {
+				"number": "297",
+				"street": "Main",
+				"type": "Pkwy",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "448",
+				"city": "Stanshire",
+				"state": "OK",
+				"zip": "18068",
+				"plus4": "9544"
+			},
+			"email": "Hailey.Thomas811@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Hailey",
+					"middleName": "",
+					"lastName": "Thomas"
+				},
+				"birthdayRange": {
+					"start": "1979-09-27",
+					"end": "1979-09-27"
+				},
+				"gender": "female",
+				"driversLicenseState": "OK",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****8499",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Nick",
+					"middleName": "X",
+					"lastName": "Thomas"
+				},
+				"birthdayRange": {
+					"start": "1979-06-02",
+					"end": "1979-06-02"
+				},
+				"gender": "male",
+				"driversLicenseState": "OK",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX4393",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Maya",
+					"middleName": "",
+					"lastName": "Thomas"
+				},
+				"birthdayRange": {
+					"start": "2001-03-16",
+					"end": "2001-03-16"
+				},
+				"gender": "female",
+				"driversLicenseState": "OK",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****3608",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "travelers",
+		"issueDate": "2020-12-02",
+		"renewalDate": "2021-06-02",
+		"policyTermMonths": 6,
+		"premiumCents": 45011,
+		"policyHolder": {
+			"name": {
+				"firstName": "Zach",
+				"middleName": "",
+				"lastName": "Robinson"
+			},
+			"address": {
+				"city": "Margiehaven",
+				"number": "302",
+				"state": "LA",
+				"street": "Spruce Street",
+				"zip": "09875"
+			},
+			"email": "Zach.Robinson254@me.com",
+			"phoneNumber": "(720) 565-5327"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Zach",
+					"middleName": "",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {
+					"start": "1972-04-03",
+					"end": "1973-04-02"
+				},
+				"gender": "male",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL098213",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "",
+					"lastName": "Robinson"
+				},
+				"birthdayRange": {
+					"start": "1968-02-25",
+					"end": "1969-02-23"
+				},
+				"gender": "female",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL431802",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "esurance",
+		"issueDate": "2020-12-14",
+		"renewalDate": "2021-06-14",
+		"policyTermMonths": 6,
+		"premiumCents": 49226,
+		"policyHolder": {
+			"name": {
+				"firstName": "Joshua",
+				"middleName": "",
+				"lastName": "Torres"
+			},
+			"address": {
+				"number": "403",
+				"street": "Channing Avenue Apt 212",
+				"suffix": "N",
+				"city": "Dawsonbury",
+				"state": "WA",
+				"zip": "45544",
+				"plus4": "4330"
+			},
+			"email": "Joshua.Torres467@me.com",
+			"phoneNumber": "(707) 824-6696"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Joshua",
+					"middleName": "",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {},
+				"gender": "male",
+				"driversLicenseState": "WA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX8535",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Elizabeth",
+					"middleName": "",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {},
+				"gender": "female",
+				"driversLicenseState": "WA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****0562",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "thegeneral",
+		"issueDate": "2020-10-21",
+		"renewalDate": "2021-04-22",
+		"policyTermMonths": 6,
+		"premiumCents": 60078,
+		"policyHolder": {
+			"name": {
+				"firstName": "Mateo",
+				"middleName": "",
+				"lastName": "Harris"
+			},
+			"address": {
+				"number": "257",
+				"street": "Rooselevelt",
+				"type": "Cir",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "583",
+				"city": "Ebertchester",
+				"state": "FL",
+				"zip": "74840",
+				"plus4": "2317"
+			},
+			"email": "Mateo.Harris316@gmail.com",
+			"phoneNumber": "(430) 747-1635"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Mateo",
+					"middleName": "",
+					"lastName": "Harris"
+				},
+				"birthdayRange": {
+					"start": "1990-02-24",
+					"end": "1990-02-24"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "",
+					"lastName": "Harris"
+				},
+				"birthdayRange": {
+					"start": "1991-02-19",
+					"end": "1991-02-19"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "thegeneral",
+		"issueDate": "2020-12-07",
+		"renewalDate": "2021-06-07",
+		"policyTermMonths": 6,
+		"premiumCents": 72640,
+		"policyHolder": {
+			"name": {
+				"firstName": "Edith",
+				"middleName": "",
+				"lastName": "Lewis"
+			},
+			"address": {
+				"number": "845",
+				"street": "Main Parkway Suite 374",
+				"suffix": "E",
+				"city": "Dustinburgh",
+				"state": "WI",
+				"zip": "87646",
+				"plus4": "0404"
+			},
+			"email": "Edith.Lewis751@gmail.com",
+			"phoneNumber": "(206) 786-8098"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Edith",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1998-04-22",
+					"end": "1998-04-22"
+				},
+				"gender": "female",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****8709",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2021-01-04",
+		"renewalDate": "2021-07-04",
+		"policyTermMonths": 6,
+		"premiumCents": 42062,
+		"policyHolder": {
+			"name": {
+				"firstName": "Caroline",
+				"middleName": "",
+				"lastName": "Thomas"
+			},
+			"address": {
+				"number": "567",
+				"street": "Washington Circle Suite 256",
+				"type": "Lk",
+				"city": "Hazle",
+				"state": "IL",
+				"zip": "10948",
+				"plus4": "6756"
+			},
+			"email": "Caroline.Thomas958@gmail.com",
+			"phoneNumber": "(913) 221-6413"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Caroline",
+					"middleName": "",
+					"lastName": "Thomas"
+				},
+				"birthdayRange": {
+					"start": "1961-11-14",
+					"end": "1961-11-14"
+				},
+				"gender": "female",
+				"driversLicenseState": "IL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****2697",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Terry",
+					"middleName": "",
+					"lastName": "Thomas"
+				},
+				"birthdayRange": {
+					"start": "1956-01-09",
+					"end": "1956-01-09"
+				},
+				"gender": "male",
+				"driversLicenseState": "IL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****8485",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Maya",
+					"middleName": "Q",
+					"lastName": "Thomas"
+				},
+				"birthdayRange": {
+					"start": "2001-08-01",
+					"end": "2001-08-01"
+				},
+				"gender": "female",
+				"driversLicenseState": "IL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****0298",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "farmers",
+		"issueDate": "2021-01-09",
+		"renewalDate": "2021-07-09",
+		"policyTermMonths": 6,
+		"premiumCents": 85874,
+		"policyHolder": {
+			"name": {
+				"firstName": "Scarlett",
+				"middleName": "",
+				"lastName": "Nguyen"
+			},
+			"address": {
+				"number": "185",
+				"street": "Holly",
+				"type": "Ln",
+				"city": "Lakintown",
+				"state": "CO",
+				"zip": "69386"
+			},
+			"email": "Scarlett.Nguyen388@yahoo.com",
+			"phoneNumber": "(967) 808-6481"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Scarlett",
+					"middleName": "",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1986-10-07",
+					"end": "1986-10-07"
+				},
+				"gender": "female",
+				"driversLicenseState": "CO",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX7995",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Terry",
+					"middleName": "",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1989-01-07",
+					"end": "1989-01-07"
+				},
+				"gender": "male",
+				"driversLicenseState": "CO",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****7230",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-10-20",
+		"renewalDate": "2021-04-21",
+		"policyTermMonths": 6,
+		"premiumCents": 51024,
+		"policyHolder": {
+			"name": {
+				"firstName": "Daniel",
+				"middleName": "B",
+				"lastName": "Thompson"
+			},
+			"address": {
+				"number": "299",
+				"street": "Cedar",
+				"type": "Ave",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "504",
+				"city": "Kirlinhaven",
+				"state": "HI",
+				"zip": "77789"
+			},
+			"email": "Daniel.Thompson964@aol.com",
+			"phoneNumber": "(993) 317-9678"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Daniel",
+					"middleName": "B",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {
+					"start": "1995-03-29",
+					"end": "1996-03-27"
+				},
+				"gender": "male",
+				"driversLicenseState": "HI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL550137",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "A",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {
+					"start": "2000-09-17",
+					"end": "2001-09-16"
+				},
+				"gender": "female",
+				"driversLicenseState": "HI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL243806",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-09-27",
+		"renewalDate": "2021-03-28",
+		"policyTermMonths": 6,
+		"premiumCents": 82267,
+		"policyHolder": {
+			"name": {
+				"firstName": "Catherine",
+				"middleName": "Q",
+				"lastName": "Clark"
+			},
+			"address": {
+				"number": "76",
+				"street": "Holly",
+				"type": "Way",
+				"city": "New Alexandra",
+				"state": "AZ",
+				"zip": "64679",
+				"plus4": "9901"
+			},
+			"phoneNumber": "(626) 590-3050"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Catherine",
+					"middleName": "Q",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Nick",
+					"middleName": "",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "thegeneral",
+		"issueDate": "2020-10-13",
+		"renewalDate": "2021-04-14",
+		"policyTermMonths": 6,
+		"premiumCents": 75041,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ben",
+				"middleName": "",
+				"lastName": "Lee"
+			},
+			"address": {
+				"city": "Meggiefort",
+				"state": "AL",
+				"zip": "79569"
+			},
+			"email": "Ben.Lee300@yahoo.com",
+			"phoneNumber": "(713) 760-5077"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ben",
+					"middleName": "",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1970-11-01",
+					"end": "1970-11-30"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ian",
+					"middleName": "X",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1999-12-01",
+					"end": "1999-12-31"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "statefarm",
+		"issueDate": "2020-12-11",
+		"renewalDate": "2021-06-11",
+		"policyTermMonths": 6,
+		"premiumCents": 49807,
+		"policyHolder": {
+			"name": {
+				"firstName": "Amanda",
+				"middleName": "N",
+				"lastName": "Thompson"
+			},
+			"address": {
+				"number": "463",
+				"street": "Dwight",
+				"type": "Ct",
+				"city": "Kaseyborough",
+				"state": "WI",
+				"zip": "34586",
+				"plus4": "7096"
+			},
+			"email": "Amanda.Thompson622@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Amanda",
+					"middleName": "N",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {
+					"start": "1987-04-15",
+					"end": "1987-04-15"
+				},
+				"gender": "female",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX9749",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "David",
+					"middleName": "",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {
+					"start": "1988-04-14",
+					"end": "1988-04-14"
+				},
+				"gender": "male",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****5718",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2020-12-03",
+		"renewalDate": "2021-06-03",
+		"policyTermMonths": 6,
+		"premiumCents": 67200,
+		"policyHolder": {
+			"name": {
+				"firstName": "Nick",
+				"middleName": "",
+				"lastName": "Sanchez"
+			},
+			"address": {
+				"number": "36",
+				"street": "Main",
+				"type": "Ln",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "542",
+				"city": "Carolynfurt",
+				"state": "WV",
+				"zip": "54033"
+			},
+			"email": "Nick.Sanchez859@hotmail.com",
+			"phoneNumber": "(325) 923-1237"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Nick",
+					"middleName": "",
+					"lastName": "Sanchez"
+				},
+				"birthdayRange": {
+					"start": "1974-01-27",
+					"end": "1975-01-26"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Lily",
+					"middleName": "N",
+					"lastName": "Sanchez"
+				},
+				"birthdayRange": {
+					"start": "1973-12-18",
+					"end": "1974-12-17"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2021-01-01",
+		"renewalDate": "2021-07-02",
+		"policyTermMonths": 6,
+		"premiumCents": 79853,
+		"policyHolder": {
+			"name": {
+				"firstName": "Penelope",
+				"middleName": "N",
+				"lastName": "Lewis"
+			},
+			"address": {
+				"number": "395",
+				"street": "Spooner",
+				"type": "Ave",
+				"city": "Jilliantown",
+				"state": "WI",
+				"zip": "61227",
+				"plus4": "3554"
+			},
+			"email": "Penelope.Lewis574@gmail.com",
+			"phoneNumber": "(458) 694-4956"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Penelope",
+					"middleName": "N",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1973-05-03",
+					"end": "1973-05-03"
+				},
+				"gender": "female",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****8912",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Samuel",
+					"middleName": "C",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1973-07-10",
+					"end": "1973-07-10"
+				},
+				"gender": "male",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX7553",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Claire",
+					"middleName": "U",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "2002-03-09",
+					"end": "2002-03-09"
+				},
+				"gender": "female",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX0313",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "travelers",
+		"issueDate": "2020-10-21",
+		"renewalDate": "2021-04-22",
+		"policyTermMonths": 6,
+		"premiumCents": 81094,
+		"policyHolder": {
+			"name": {
+				"firstName": "Zach",
+				"middleName": "",
+				"lastName": "King"
+			},
+			"address": {
+				"number": "914",
+				"street": "Main",
+				"type": "St",
+				"city": "Boyleshire",
+				"state": "MT",
+				"zip": "88020"
+			},
+			"email": "Zach.King559@yahoo.com",
+			"phoneNumber": "(962) 459-6668"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Zach",
+					"middleName": "",
+					"lastName": "King"
+				},
+				"birthdayRange": {
+					"start": "1963-11-14",
+					"end": "1963-11-14"
+				},
+				"gender": "male",
+				"driversLicenseState": "MT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL794850",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Claire",
+					"middleName": "",
+					"lastName": "King"
+				},
+				"birthdayRange": {
+					"start": "1965-12-14",
+					"end": "1965-12-14"
+				},
+				"gender": "female",
+				"driversLicenseState": "MT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL928518",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Charlotte",
+					"middleName": "",
+					"lastName": "King"
+				},
+				"birthdayRange": {
+					"start": "1999-11-08",
+					"end": "1999-11-08"
+				},
+				"gender": "female",
+				"driversLicenseState": "MT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL626079",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-10-02",
+		"renewalDate": "2021-04-03",
+		"policyTermMonths": 6,
+		"premiumCents": 72018,
+		"policyHolder": {
+			"name": {
+				"firstName": "Abigail",
+				"middleName": "",
+				"lastName": "Clark"
+			},
+			"address": {
+				"number": "309",
+				"street": "Park Way Apt 017",
+				"type": "Lk",
+				"city": "Johnnymouth",
+				"state": "WV",
+				"zip": "76023",
+				"plus4": "1891"
+			},
+			"email": "Abigail.Clark548@gmail.com",
+			"phoneNumber": "(462) 982-9735"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Abigail",
+					"middleName": "",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {
+					"start": "1993-02-10",
+					"end": "1993-02-10"
+				},
+				"gender": "female",
+				"driversLicenseState": "WV",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****4973",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Daniel",
+					"middleName": "",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {
+					"start": "1996-10-26",
+					"end": "1996-10-26"
+				},
+				"gender": "male",
+				"driversLicenseState": "WV",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****5285",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "esurance",
+		"issueDate": "2020-10-01",
+		"renewalDate": "2021-04-02",
+		"policyTermMonths": 6,
+		"premiumCents": 54064,
+		"policyHolder": {
+			"name": {
+				"firstName": "Mateo",
+				"middleName": "",
+				"lastName": "Torres"
+			},
+			"address": {
+				"number": "231",
+				"street": "Broadway",
+				"type": "Ct",
+				"suffix": "W",
+				"city": "Stacyborough",
+				"state": "VA",
+				"zip": "36266"
+			},
+			"email": "Mateo.Torres962@aol.com",
+			"phoneNumber": "(888) 659-7123"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Mateo",
+					"middleName": "",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1975-11-16",
+					"end": "1976-11-14"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ivy",
+					"middleName": "I",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1980-03-12",
+					"end": "1981-03-11"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Elizabeth",
+					"middleName": "I",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1999-04-15",
+					"end": "2000-04-13"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "esurance",
+		"issueDate": "2020-09-03",
+		"renewalDate": "2021-03-04",
+		"policyTermMonths": 6,
+		"premiumCents": 89499,
+		"policyHolder": {
+			"name": {
+				"firstName": "Scarlett",
+				"middleName": "R",
+				"lastName": "Thompson"
+			},
+			"address": {
+				"number": "375",
+				"street": "Second",
+				"type": "Pkwy",
+				"city": "Merlland",
+				"state": "WA",
+				"zip": "02281"
+			},
+			"email": "Scarlett.Thompson842@aol.com",
+			"phoneNumber": "(739) 527-3674"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Scarlett",
+					"middleName": "R",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {
+					"start": "1956-08-01",
+					"end": "1956-08-31"
+				},
+				"gender": "female",
+				"driversLicenseState": "WA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL383299",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Jack",
+					"middleName": "",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {
+					"start": "1961-04-01",
+					"end": "1961-04-30"
+				},
+				"gender": "male",
+				"driversLicenseState": "WA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL217566",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Zach",
+					"middleName": "",
+					"lastName": "Thompson"
+				},
+				"birthdayRange": {
+					"start": "2002-11-01",
+					"end": "2002-11-30"
+				},
+				"gender": "male",
+				"driversLicenseState": "WA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL206081",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "usaa",
+		"issueDate": "2020-12-30",
+		"renewalDate": "2021-06-30",
+		"policyTermMonths": 6,
+		"premiumCents": 63007,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ivy",
+				"middleName": "",
+				"lastName": "Martin"
+			},
+			"address": {
+				"city": "Lake Noemi",
+				"state": "PA",
+				"zip": "53447"
+			},
+			"email": "Ivy.Martin795@gmail.com",
+			"phoneNumber": "(771) 219-0065"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ivy",
+					"middleName": "",
+					"lastName": "Martin"
+				},
+				"birthdayRange": {
+					"start": "1975-12-14",
+					"end": "1975-12-14"
+				},
+				"gender": "female",
+				"driversLicenseState": "PA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL468856",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "statefarm",
+		"issueDate": "2021-01-18",
+		"renewalDate": "2021-07-18",
+		"policyTermMonths": 6,
+		"premiumCents": 54684,
+		"policyHolder": {
+			"name": {
+				"firstName": "Samuel",
+				"middleName": "",
+				"lastName": "Lewis"
+			},
+			"address": {
+				"number": "551",
+				"street": "Walnut",
+				"type": "Ln",
+				"suffix": "N",
+				"city": "Ernestoville",
+				"state": "OK",
+				"zip": "39568"
+			},
+			"email": "Samuel.Lewis521@hotmail.com",
+			"phoneNumber": "(842) 497-7680"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Samuel",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1961-04-12",
+					"end": "1961-04-12"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Linda",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1960-10-13",
+					"end": "1960-10-13"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "wawanesa",
+		"issueDate": "2020-10-31",
+		"renewalDate": "2021-05-02",
+		"policyTermMonths": 6,
+		"premiumCents": 62441,
+		"policyHolder": {
+			"name": {
+				"firstName": "Peter",
+				"middleName": "",
+				"lastName": "Perez"
+			},
+			"address": {
+				"number": "654",
+				"street": "Walnut",
+				"type": "St",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "252",
+				"city": "Kendrickbury",
+				"state": "OR",
+				"zip": "48994",
+				"plus4": "1481"
+			},
+			"email": "Peter.Perez650@gmail.com",
+			"phoneNumber": "(866) 706-8507"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Peter",
+					"middleName": "",
+					"lastName": "Perez"
+				},
+				"birthdayRange": {
+					"start": "1995-10-31",
+					"end": "1995-10-31"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Vitoria",
+					"middleName": "",
+					"lastName": "Perez"
+				},
+				"birthdayRange": {
+					"start": "2000-04-08",
+					"end": "2000-04-08"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "usaa",
+		"issueDate": "2020-11-19",
+		"renewalDate": "2021-05-19",
+		"policyTermMonths": 6,
+		"premiumCents": 59416,
+		"policyHolder": {
+			"name": {
+				"firstName": "Evan",
+				"middleName": "",
+				"lastName": "Anderson"
+			},
+			"address": {
+				"number": "408",
+				"street": "Spooner",
+				"type": "Pkwy",
+				"city": "Schowalterfort",
+				"state": "VT",
+				"zip": "12518"
+			},
+			"email": "Evan.Anderson399@aol.com",
+			"phoneNumber": "(579) 473-3680"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Evan",
+					"middleName": "",
+					"lastName": "Anderson"
+				},
+				"birthdayRange": {
+					"start": "1970-12-29",
+					"end": "1970-12-29"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "",
+					"lastName": "Anderson"
+				},
+				"birthdayRange": {
+					"start": "1974-02-21",
+					"end": "1974-02-21"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2021-01-13",
+		"renewalDate": "2021-07-13",
+		"policyTermMonths": 6,
+		"premiumCents": 53454,
+		"policyHolder": {
+			"name": {
+				"firstName": "Zach",
+				"middleName": "",
+				"lastName": "Young"
+			},
+			"address": {
+				"number": "404",
+				"street": "Cedar",
+				"type": "Cir",
+				"suffix": "E",
+				"city": "Mikelport",
+				"state": "MO",
+				"zip": "37533"
+			},
+			"email": "Zach.Young29@aol.com",
+			"phoneNumber": "(549) 359-8060"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Zach",
+					"middleName": "",
+					"lastName": "Young"
+				},
+				"birthdayRange": {},
+				"gender": "male",
+				"driversLicenseState": "MO",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL404009",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Alice",
+					"middleName": "K",
+					"lastName": "Young"
+				},
+				"birthdayRange": {},
+				"gender": "female",
+				"driversLicenseState": "MO",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL218962",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2020-09-26",
+		"renewalDate": "2021-03-27",
+		"policyTermMonths": 6,
+		"premiumCents": 67803,
+		"policyHolder": {
+			"name": {
+				"firstName": "Catherine",
+				"middleName": "A",
+				"lastName": "Nguyen"
+			},
+			"address": {
+				"city": "Suite 632 Feeneybury",
+				"number": "952",
+				"state": "LA",
+				"street": "Spooner Parkway",
+				"zip": "12138",
+				"plus4": "7598"
+			},
+			"email": "Catherine.Nguyen787@aol.com",
+			"phoneNumber": "(496) 872-7175"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Catherine",
+					"middleName": "A",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1960-03-19",
+					"end": "1960-03-19"
+				},
+				"gender": "female",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****1192",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Joseph",
+					"middleName": "Z",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1960-07-05",
+					"end": "1960-07-05"
+				},
+				"gender": "male",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX0682",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Jacob",
+					"middleName": "",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "2004-08-17",
+					"end": "2004-08-17"
+				},
+				"gender": "male",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****7181",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-12-06",
+		"renewalDate": "2021-06-06",
+		"policyTermMonths": 6,
+		"premiumCents": 60609,
+		"policyHolder": {
+			"name": {
+				"firstName": "Jennifer",
+				"middleName": "Z",
+				"lastName": "Moore"
+			},
+			"address": {
+				"number": "728",
+				"street": "First",
+				"type": "Ave",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "805",
+				"city": "Chandlerton",
+				"state": "MD",
+				"zip": "07117"
+			},
+			"email": "Jennifer.Moore571@hotmail.com",
+			"phoneNumber": "(320) 964-9375"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Jennifer",
+					"middleName": "Z",
+					"lastName": "Moore"
+				},
+				"birthdayRange": {
+					"start": "1961-04-03",
+					"end": "1962-04-02"
+				},
+				"gender": "female",
+				"driversLicenseState": "MD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX2722",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ella",
+					"middleName": "",
+					"lastName": "Moore"
+				},
+				"birthdayRange": {
+					"start": "2000-08-26",
+					"end": "2001-08-25"
+				},
+				"gender": "female",
+				"driversLicenseState": "MD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX4716",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "travelers",
+		"issueDate": "2020-12-22",
+		"renewalDate": "2021-06-22",
+		"policyTermMonths": 6,
+		"premiumCents": 49212,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ethan",
+				"middleName": "",
+				"lastName": "Lewis"
+			},
+			"address": {
+				"number": "655",
+				"street": "Baltimore",
+				"type": "Ln",
+				"suffix": "E",
+				"city": "Candelario",
+				"state": "IL",
+				"zip": "23093",
+				"plus4": "2354"
+			},
+			"email": "Ethan.Lewis947@gmail.com",
+			"phoneNumber": "(874) 952-5163"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ethan",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1968-12-18",
+					"end": "1968-12-18"
+				},
+				"gender": "male",
+				"driversLicenseState": "IL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL464750",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Elizabeth",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1963-04-14",
+					"end": "1963-04-14"
+				},
+				"gender": "female",
+				"driversLicenseState": "IL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL660996",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Linda",
+					"middleName": "U",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "2003-10-12",
+					"end": "2003-10-12"
+				},
+				"gender": "female",
+				"driversLicenseState": "IL",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL216995",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "usaa",
+		"issueDate": "2020-10-15",
+		"renewalDate": "2021-04-16",
+		"policyTermMonths": 6,
+		"premiumCents": 66052,
+		"policyHolder": {
+			"name": {
+				"firstName": "Charlie",
+				"middleName": "",
+				"lastName": "Scott"
+			},
+			"address": {
+				"number": "699",
+				"street": "Pine",
+				"type": "Pkwy",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "530",
+				"city": "Arvelbury",
+				"state": "AK",
+				"zip": "36735",
+				"plus4": "4116"
+			},
+			"email": "Charlie.Scott480@gmail.com",
+			"phoneNumber": "(490) 831-6977"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Charlie",
+					"middleName": "",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1993-10-30",
+					"end": "1993-10-30"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Linda",
+					"middleName": "",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1988-09-13",
+					"end": "1988-09-13"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "farmers",
+		"issueDate": "2020-10-28",
+		"renewalDate": "2021-04-29",
+		"policyTermMonths": 6,
+		"premiumCents": 80419,
+		"policyHolder": {
+			"name": {
+				"firstName": "Lily",
+				"middleName": "",
+				"lastName": "Allen"
+			},
+			"address": {
+				"number": "184",
+				"street": "Maple",
+				"type": "Way",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "781",
+				"city": "Bartonchester",
+				"state": "WI",
+				"zip": "20448"
+			},
+			"email": "Lily.Allen82@aol.com",
+			"phoneNumber": "(810) 845-5414"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Lily",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1976-01-01",
+					"end": "1976-01-31"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Nick",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1975-12-01",
+					"end": "1975-12-31"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Elizabeth",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "2005-09-01",
+					"end": "2005-09-30"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2020-12-02",
+		"renewalDate": "2021-06-02",
+		"policyTermMonths": 6,
+		"premiumCents": 42054,
+		"policyHolder": {
+			"name": {
+				"firstName": "Lois",
+				"middleName": "",
+				"lastName": "White"
+			},
+			"address": {
+				"number": "444",
+				"street": "Washington",
+				"type": "Pkwy",
+				"city": "New Kristoffer",
+				"state": "SD",
+				"zip": "07648"
+			},
+			"email": "Lois.White524@hotmail.com",
+			"phoneNumber": "(849) 254-1540"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Lois",
+					"middleName": "",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "1973-10-03",
+					"end": "1973-10-03"
+				},
+				"gender": "female",
+				"driversLicenseState": "SD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL533984",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Henry",
+					"middleName": "",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "2000-11-10",
+					"end": "2000-11-10"
+				},
+				"gender": "male",
+				"driversLicenseState": "SD",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL750791",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2020-09-18",
+		"renewalDate": "2021-03-19",
+		"policyTermMonths": 6,
+		"premiumCents": 83478,
+		"policyHolder": {
+			"name": {
+				"firstName": "Andrew",
+				"middleName": "",
+				"lastName": "Clark"
+			},
+			"address": {
+				"number": "724",
+				"street": "Park Way",
+				"type": "Lk",
+				"city": "Daniela",
+				"state": "CO",
+				"zip": "45764",
+				"plus4": "9889"
+			},
+			"email": "Andrew.Clark817@hotmail.com",
+			"phoneNumber": "(618) 650-7492"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Andrew",
+					"middleName": "",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {},
+				"gender": "male",
+				"driversLicenseState": "CO",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****8223",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Linda",
+					"middleName": "Q",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {},
+				"gender": "female",
+				"driversLicenseState": "CO",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX3650",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2020-10-11",
+		"renewalDate": "2021-04-12",
+		"policyTermMonths": 6,
+		"premiumCents": 61857,
+		"policyHolder": {
+			"name": {
+				"firstName": "James",
+				"middleName": "N",
+				"lastName": "Anderson"
+			},
+			"address": {
+				"number": "967",
+				"street": "Rooselevelt",
+				"type": "Ln",
+				"city": "Gayleport",
+				"state": "IA",
+				"zip": "95444",
+				"plus4": "3576"
+			},
+			"phoneNumber": "(788) 625-2930"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "James",
+					"middleName": "N",
+					"lastName": "Anderson"
+				},
+				"birthdayRange": {
+					"start": "1994-08-28",
+					"end": "1994-08-28"
+				},
+				"gender": "male",
+				"driversLicenseState": "IA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****7391",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Ariana",
+					"middleName": "",
+					"lastName": "Anderson"
+				},
+				"birthdayRange": {
+					"start": "1990-12-08",
+					"end": "1990-12-08"
+				},
+				"gender": "female",
+				"driversLicenseState": "IA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX5896",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2020-10-09",
+		"renewalDate": "2021-04-10",
+		"policyTermMonths": 6,
+		"premiumCents": 42688,
+		"policyHolder": {
+			"name": {
+				"firstName": "Victor",
+				"middleName": "",
+				"lastName": "Taylor"
+			},
+			"address": {
+				"number": "468",
+				"street": "Second",
+				"type": "Ct",
+				"city": "Rutherfordshire",
+				"state": "NM",
+				"zip": "22421"
+			},
+			"email": "Victor.Taylor174@hotmail.com",
+			"phoneNumber": "(433) 429-8953"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Victor",
+					"middleName": "",
+					"lastName": "Taylor"
+				},
+				"birthdayRange": {
+					"start": "1988-05-13",
+					"end": "1988-05-13"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2020-10-16",
+		"renewalDate": "2021-04-17",
+		"policyTermMonths": 6,
+		"premiumCents": 48651,
+		"policyHolder": {
+			"name": {
+				"firstName": "Catherine",
+				"middleName": "",
+				"lastName": "Jackson"
+			},
+			"address": {
+				"city": "Apt 304 Ozellamouth",
+				"number": "859",
+				"state": "KY",
+				"street": "Oak Lane",
+				"zip": "62581",
+				"plus4": "6076"
+			},
+			"email": "Catherine.Jackson449@hotmail.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Catherine",
+					"middleName": "",
+					"lastName": "Jackson"
+				},
+				"birthdayRange": {
+					"start": "1979-10-26",
+					"end": "1979-10-26"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Eli",
+					"middleName": "",
+					"lastName": "Jackson"
+				},
+				"birthdayRange": {
+					"start": "1977-03-20",
+					"end": "1977-03-20"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "esurance",
+		"issueDate": "2020-11-20",
+		"renewalDate": "2021-05-20",
+		"policyTermMonths": 6,
+		"premiumCents": 46883,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ben",
+				"middleName": "R",
+				"lastName": "Hill"
+			},
+			"address": {
+				"number": "77",
+				"street": "Elm",
+				"type": "St",
+				"suffix": "N",
+				"city": "Nathanielside",
+				"state": "MA",
+				"zip": "82028"
+			},
+			"email": "Ben.Hill384@me.com",
+			"phoneNumber": "(298) 638-6212"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ben",
+					"middleName": "R",
+					"lastName": "Hill"
+				},
+				"birthdayRange": {
+					"start": "1963-01-13",
+					"end": "1963-01-13"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Catherine",
+					"middleName": "",
+					"lastName": "Hill"
+				},
+				"birthdayRange": {
+					"start": "1966-11-27",
+					"end": "1966-11-27"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "root",
+		"issueDate": "2021-01-02",
+		"renewalDate": "2021-07-02",
+		"policyTermMonths": 6,
+		"premiumCents": 82284,
+		"policyHolder": {
+			"name": {
+				"firstName": "Henry",
+				"middleName": "",
+				"lastName": "Ramirez"
+			},
+			"address": {
+				"number": "523",
+				"street": "Quail",
+				"type": "Way",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "607",
+				"city": "Amieton",
+				"state": "VT",
+				"zip": "90205"
+			},
+			"email": "Henry.Ramirez465@yahoo.com",
+			"phoneNumber": "(339) 691-8171"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Henry",
+					"middleName": "",
+					"lastName": "Ramirez"
+				},
+				"birthdayRange": {
+					"start": "1962-04-17",
+					"end": "1962-04-17"
+				},
+				"gender": "male",
+				"driversLicenseState": "VT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****4104",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Maya",
+					"middleName": "G",
+					"lastName": "Ramirez"
+				},
+				"birthdayRange": {
+					"start": "1964-07-18",
+					"end": "1964-07-18"
+				},
+				"gender": "female",
+				"driversLicenseState": "VT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX3906",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2020-10-24",
+		"renewalDate": "2021-04-25",
+		"policyTermMonths": 6,
+		"premiumCents": 67250,
+		"policyHolder": {
+			"name": {
+				"firstName": "Catherine",
+				"middleName": "",
+				"lastName": "Perez"
+			},
+			"address": {
+				"number": "782",
+				"street": "Quail Street Suite 980",
+				"suffix": "E",
+				"city": "Kristaview",
+				"state": "HI",
+				"zip": "49724"
+			},
+			"email": "Catherine.Perez145@yahoo.com",
+			"phoneNumber": "(208) 434-1294"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Catherine",
+					"middleName": "",
+					"lastName": "Perez"
+				},
+				"birthdayRange": {
+					"start": "1996-01-10",
+					"end": "1996-01-10"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Nick",
+					"middleName": "",
+					"lastName": "Perez"
+				},
+				"birthdayRange": {
+					"start": "1999-11-22",
+					"end": "1999-11-22"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2021-01-12",
+		"renewalDate": "2021-07-12",
+		"policyTermMonths": 6,
+		"premiumCents": 81086,
+		"policyHolder": {
+			"name": {
+				"firstName": "Kate",
+				"middleName": "Q",
+				"lastName": "Nguyen"
+			},
+			"address": {
+				"number": "594",
+				"street": "Madison",
+				"type": "Ave",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "193",
+				"city": "Hettingerchester",
+				"state": "WY",
+				"zip": "64445",
+				"plus4": "9023"
+			},
+			"email": "Kate.Nguyen931@me.com",
+			"phoneNumber": "(582) 471-8093"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Kate",
+					"middleName": "Q",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1967-07-04",
+					"end": "1968-07-02"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Matthew",
+					"middleName": "Q",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1964-12-18",
+					"end": "1965-12-17"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2020-11-28",
+		"renewalDate": "2021-05-28",
+		"policyTermMonths": 6,
+		"premiumCents": 53491,
+		"policyHolder": {
+			"name": {
+				"firstName": "Lois",
+				"middleName": "",
+				"lastName": "Walker"
+			},
+			"address": {
+				"number": "423",
+				"street": "Ridge Way Apt 823",
+				"type": "Prt",
+				"city": "Mayrastad",
+				"state": "MA",
+				"zip": "62648"
+			},
+			"email": "Lois.Walker193@yahoo.com",
+			"phoneNumber": "(570) 328-0627"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Lois",
+					"middleName": "",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "1979-10-24",
+					"end": "1980-10-22"
+				},
+				"gender": "female",
+				"driversLicenseState": "MA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL361075",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Mateo",
+					"middleName": "",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "1974-06-12",
+					"end": "1975-06-11"
+				},
+				"gender": "male",
+				"driversLicenseState": "MA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL181462",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "usaa",
+		"issueDate": "2020-10-15",
+		"renewalDate": "2021-04-16",
+		"policyTermMonths": 6,
+		"premiumCents": 83478,
+		"policyHolder": {
+			"name": {
+				"firstName": "Anna",
+				"middleName": "T",
+				"lastName": "Perez"
+			},
+			"address": {
+				"city": "Suite 018 Port Augustatown",
+				"number": "66",
+				"state": "LA",
+				"street": "Broadway Avenue",
+				"zip": "30369",
+				"plus4": "9137"
+			},
+			"email": "Anna.Perez583@aol.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Anna",
+					"middleName": "T",
+					"lastName": "Perez"
+				},
+				"birthdayRange": {
+					"start": "1956-06-08",
+					"end": "1956-06-08"
+				},
+				"gender": "female",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****0663",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Nick",
+					"middleName": "K",
+					"lastName": "Perez"
+				},
+				"birthdayRange": {
+					"start": "1958-08-30",
+					"end": "1958-08-30"
+				},
+				"gender": "male",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX0200",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Lucas",
+					"middleName": "",
+					"lastName": "Perez"
+				},
+				"birthdayRange": {
+					"start": "1999-02-28",
+					"end": "1999-02-28"
+				},
+				"gender": "male",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX1884",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2020-08-31",
+		"renewalDate": "2021-03-04",
+		"policyTermMonths": 6,
+		"premiumCents": 81062,
+		"policyHolder": {
+			"name": {
+				"firstName": "Charlotte",
+				"middleName": "",
+				"lastName": "Lewis"
+			},
+			"address": {
+				"number": "571",
+				"street": "Maple Way Apt 004",
+				"suffix": "N",
+				"city": "Darrinton",
+				"state": "UT",
+				"zip": "67227"
+			},
+			"email": "Charlotte.Lewis792@gmail.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Charlotte",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1994-08-07",
+					"end": "1994-08-07"
+				},
+				"gender": "female",
+				"driversLicenseState": "UT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL619586",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2020-10-31",
+		"renewalDate": "2021-05-02",
+		"policyTermMonths": 6,
+		"premiumCents": 61820,
+		"policyHolder": {
+			"name": {
+				"firstName": "Caroline",
+				"middleName": "",
+				"lastName": "Flores"
+			},
+			"address": {
+				"number": "222",
+				"street": "Laurel Avenue Suite 827",
+				"type": "Lk",
+				"city": "Florida",
+				"state": "NH",
+				"zip": "15613",
+				"plus4": "6886"
+			},
+			"email": "Caroline.Flores554@hotmail.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Caroline",
+					"middleName": "",
+					"lastName": "Flores"
+				},
+				"birthdayRange": {
+					"start": "1990-07-11",
+					"end": "1990-07-11"
+				},
+				"gender": "female",
+				"driversLicenseState": "NH",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****3158",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "nationwide",
+		"issueDate": "2020-12-10",
+		"renewalDate": "2021-06-10",
+		"policyTermMonths": 6,
+		"premiumCents": 87016,
+		"policyHolder": {
+			"name": {
+				"firstName": "Terry",
+				"middleName": "",
+				"lastName": "Walker"
+			},
+			"address": {
+				"number": "958",
+				"street": "Hickory",
+				"type": "St",
+				"city": "Schmelerport",
+				"state": "CT",
+				"zip": "47964"
+			},
+			"email": "Terry.Walker178@hotmail.com",
+			"phoneNumber": "(209) 940-3015"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Terry",
+					"middleName": "",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "1999-03-24",
+					"end": "1999-03-24"
+				},
+				"gender": "male",
+				"driversLicenseState": "CT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL918395",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Amanda",
+					"middleName": "",
+					"lastName": "Walker"
+				},
+				"birthdayRange": {
+					"start": "1997-01-07",
+					"end": "1997-01-07"
+				},
+				"gender": "female",
+				"driversLicenseState": "CT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL476381",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "usaa",
+		"issueDate": "2020-09-20",
+		"renewalDate": "2021-03-21",
+		"policyTermMonths": 6,
+		"premiumCents": 59415,
+		"policyHolder": {
+			"name": {
+				"firstName": "Maya",
+				"middleName": "",
+				"lastName": "Lee"
+			},
+			"address": {
+				"number": "354",
+				"street": "Quail Parkway Suite 335",
+				"suffix": "S",
+				"city": "Darryl",
+				"state": "CA",
+				"zip": "28963",
+				"plus4": "3821"
+			},
+			"email": "Maya.Lee608@yahoo.com",
+			"phoneNumber": "(834) 402-2479"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Maya",
+					"middleName": "",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1992-02-01",
+					"end": "1992-02-29"
+				},
+				"gender": "female",
+				"driversLicenseState": "CA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****1101",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Daniel",
+					"middleName": "",
+					"lastName": "Lee"
+				},
+				"birthdayRange": {
+					"start": "1996-01-01",
+					"end": "1996-01-31"
+				},
+				"gender": "male",
+				"driversLicenseState": "CA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX5224",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "allstate",
+		"issueDate": "2020-11-20",
+		"renewalDate": "2021-05-20",
+		"policyTermMonths": 6,
+		"premiumCents": 57614,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ryan",
+				"middleName": "",
+				"lastName": "Martin"
+			},
+			"address": {
+				"number": "881",
+				"street": "Spooner",
+				"type": "Ave",
+				"city": "Evalynstad",
+				"state": "WI",
+				"zip": "99467",
+				"plus4": "3132"
+			},
+			"email": "Ryan.Martin722@yahoo.com",
+			"phoneNumber": "(482) 927-3714"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ryan",
+					"middleName": "",
+					"lastName": "Martin"
+				},
+				"birthdayRange": {
+					"start": "1999-11-03",
+					"end": "1999-11-03"
+				},
+				"gender": "male",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****5680",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2021-01-15",
+		"renewalDate": "2021-07-15",
+		"policyTermMonths": 6,
+		"premiumCents": 44430,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ivy",
+				"middleName": "",
+				"lastName": "Ramirez"
+			},
+			"address": {
+				"number": "75",
+				"street": "Hillside",
+				"type": "Pkwy",
+				"city": "Padbergside",
+				"state": "WY",
+				"zip": "18685",
+				"plus4": "0910"
+			},
+			"email": "Ivy.Ramirez49@hotmail.com",
+			"phoneNumber": "(298) 630-2300"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ivy",
+					"middleName": "",
+					"lastName": "Ramirez"
+				},
+				"birthdayRange": {},
+				"gender": "female",
+				"driversLicenseState": "WY",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL327979",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-12-13",
+		"renewalDate": "2021-06-13",
+		"policyTermMonths": 6,
+		"premiumCents": 51648,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ian",
+				"middleName": "",
+				"lastName": "Allen"
+			},
+			"address": {
+				"number": "881",
+				"street": "Second Circle Apt 123",
+				"suffix": "E",
+				"city": "Bertview",
+				"state": "MN",
+				"zip": "40992",
+				"plus4": "8068"
+			},
+			"email": "Ian.Allen5@yahoo.com",
+			"phoneNumber": "(509) 945-4095"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ian",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1970-10-04",
+					"end": "1970-10-04"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "travelers",
+		"issueDate": "2020-11-28",
+		"renewalDate": "2021-05-28",
+		"policyTermMonths": 6,
+		"premiumCents": 69601,
+		"policyHolder": {
+			"name": {
+				"firstName": "Marge",
+				"middleName": "",
+				"lastName": "Lewis"
+			},
+			"address": {
+				"city": "Morartown",
+				"state": "ME",
+				"zip": "17030"
+			},
+			"email": "Marge.Lewis481@aol.com",
+			"phoneNumber": "(611) 405-7526"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Marge",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1984-06-11",
+					"end": "1984-06-11"
+				},
+				"gender": "female",
+				"driversLicenseState": "ME",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL823451",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "David",
+					"middleName": "",
+					"lastName": "Lewis"
+				},
+				"birthdayRange": {
+					"start": "1987-06-27",
+					"end": "1987-06-27"
+				},
+				"gender": "male",
+				"driversLicenseState": "ME",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL241894",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-09-19",
+		"renewalDate": "2021-03-20",
+		"policyTermMonths": 6,
+		"premiumCents": 72099,
+		"policyHolder": {
+			"name": {
+				"firstName": "Sabrina",
+				"middleName": "K",
+				"lastName": "Anderson"
+			},
+			"address": {
+				"city": "Muellerland",
+				"number": "418",
+				"state": "LA",
+				"street": "Dwight Street",
+				"zip": "12281",
+				"plus4": "4453"
+			},
+			"email": "Sabrina.Anderson807@hotmail.com",
+			"phoneNumber": "(234) 992-4456"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "K",
+					"lastName": "Anderson"
+				},
+				"birthdayRange": {
+					"start": "1961-05-06",
+					"end": "1962-05-05"
+				},
+				"gender": "female",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****6458",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Matthew",
+					"middleName": "",
+					"lastName": "Anderson"
+				},
+				"birthdayRange": {
+					"start": "1963-12-21",
+					"end": "1964-12-19"
+				},
+				"gender": "male",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****9560",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Catherine",
+					"middleName": "",
+					"lastName": "Anderson"
+				},
+				"birthdayRange": {
+					"start": "2002-01-15",
+					"end": "2003-01-14"
+				},
+				"gender": "female",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX1279",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "usaa",
+		"issueDate": "2020-10-08",
+		"renewalDate": "2021-04-09",
+		"policyTermMonths": 6,
+		"premiumCents": 69075,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ariana",
+				"middleName": "",
+				"lastName": "Taylor"
+			},
+			"address": {
+				"number": "225",
+				"street": "Elm Circle Apt 476",
+				"type": "Lk",
+				"city": "Willy",
+				"state": "DE",
+				"zip": "49650",
+				"plus4": "4029"
+			},
+			"email": "Ariana.Taylor163@yahoo.com",
+			"phoneNumber": "(308) 551-4845"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ariana",
+					"middleName": "",
+					"lastName": "Taylor"
+				},
+				"birthdayRange": {
+					"start": "1961-11-22",
+					"end": "1961-11-22"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Victor",
+					"middleName": "K",
+					"lastName": "Taylor"
+				},
+				"birthdayRange": {
+					"start": "1964-08-07",
+					"end": "1964-08-07"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Owen",
+					"middleName": "",
+					"lastName": "Taylor"
+				},
+				"birthdayRange": {
+					"start": "2000-03-21",
+					"end": "2000-03-21"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "farmers",
+		"issueDate": "2020-11-16",
+		"renewalDate": "2021-05-16",
+		"policyTermMonths": 6,
+		"premiumCents": 90081,
+		"policyHolder": {
+			"name": {
+				"firstName": "Peter",
+				"middleName": "",
+				"lastName": "White"
+			},
+			"address": {
+				"city": "Port Marco",
+				"state": "TN",
+				"zip": "01402"
+			},
+			"email": "Peter.White822@me.com",
+			"phoneNumber": "(668) 981-8809"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Peter",
+					"middleName": "",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "1959-06-01",
+					"end": "1959-06-01"
+				},
+				"gender": "male",
+				"driversLicenseState": "TN",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX7901",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Claire",
+					"middleName": "",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "1954-02-12",
+					"end": "1954-02-12"
+				},
+				"gender": "female",
+				"driversLicenseState": "TN",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX9420",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Owen",
+					"middleName": "",
+					"lastName": "White"
+				},
+				"birthdayRange": {
+					"start": "2004-10-16",
+					"end": "2004-10-16"
+				},
+				"gender": "male",
+				"driversLicenseState": "TN",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****7537",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2021-01-11",
+		"renewalDate": "2021-07-11",
+		"policyTermMonths": 6,
+		"premiumCents": 42079,
+		"policyHolder": {
+			"name": {
+				"firstName": "Homer",
+				"middleName": "U",
+				"lastName": "Torres"
+			},
+			"address": {
+				"number": "800",
+				"street": "Spruce Lane Apt 641",
+				"type": "Lk",
+				"city": "Trenton",
+				"state": "UT",
+				"zip": "17803",
+				"plus4": "0995"
+			}
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Homer",
+					"middleName": "U",
+					"lastName": "Torres"
+				},
+				"birthdayRange": {
+					"start": "1984-03-23",
+					"end": "1984-03-23"
+				},
+				"gender": "male",
+				"driversLicenseState": "UT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL011266",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "usaa",
+		"issueDate": "2020-09-03",
+		"renewalDate": "2021-03-04",
+		"policyTermMonths": 6,
+		"premiumCents": 47426,
+		"policyHolder": {
+			"name": {
+				"firstName": "Sabrina",
+				"middleName": "A",
+				"lastName": "Scott"
+			},
+			"address": {
+				"number": "797",
+				"street": "Channing",
+				"type": "Ct",
+				"sec_unit_type": "Suite",
+				"sec_unit_num": "052",
+				"city": "Dibbertstad",
+				"state": "UT",
+				"zip": "24632",
+				"plus4": "5011"
+			},
+			"email": "Sabrina.Scott177@me.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Sabrina",
+					"middleName": "A",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1999-09-01",
+					"end": "1999-09-30"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2021-01-15",
+		"renewalDate": "2021-07-15",
+		"policyTermMonths": 6,
+		"premiumCents": 51676,
+		"policyHolder": {
+			"name": {
+				"firstName": "Ben",
+				"middleName": "",
+				"lastName": "Allen"
+			},
+			"address": {
+				"number": "990",
+				"street": "Washington",
+				"type": "Pkwy",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "937",
+				"city": "Deonhaven",
+				"state": "AK",
+				"zip": "95138"
+			},
+			"email": "Ben.Allen818@aol.com",
+			"phoneNumber": "(559) 206-0300"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Ben",
+					"middleName": "",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1960-03-24",
+					"end": "1961-03-23"
+				},
+				"gender": "male",
+				"driversLicenseState": "AK",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL190755",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Edith",
+					"middleName": "R",
+					"lastName": "Allen"
+				},
+				"birthdayRange": {
+					"start": "1962-10-09",
+					"end": "1963-10-08"
+				},
+				"gender": "female",
+				"driversLicenseState": "AK",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL118610",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "libertymutual",
+		"issueDate": "2020-10-11",
+		"renewalDate": "2021-04-12",
+		"policyTermMonths": 6,
+		"premiumCents": 80496,
+		"policyHolder": {
+			"name": {
+				"firstName": "David",
+				"middleName": "",
+				"lastName": "Scott"
+			},
+			"address": {
+				"number": "613",
+				"street": "Hickory",
+				"type": "St",
+				"sec_unit_type": "Apt",
+				"sec_unit_num": "280",
+				"city": "Colemouth",
+				"state": "MN",
+				"zip": "05001",
+				"plus4": "2551"
+			},
+			"email": "David.Scott227@aol.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "David",
+					"middleName": "",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1965-08-03",
+					"end": "1966-08-02"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Charlotte",
+					"middleName": "M",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1970-04-11",
+					"end": "1971-04-10"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Claire",
+					"middleName": "T",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1998-05-07",
+					"end": "1999-05-06"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "bristolwest",
+		"issueDate": "2020-11-09",
+		"renewalDate": "2021-05-09",
+		"policyTermMonths": 6,
+		"premiumCents": 67235,
+		"policyHolder": {
+			"name": {
+				"firstName": "Scarlett",
+				"middleName": "",
+				"lastName": "Clark"
+			},
+			"address": {
+				"number": "926",
+				"street": "Washington",
+				"type": "Way",
+				"city": "Vanessaburgh",
+				"state": "WI",
+				"zip": "08786"
+			},
+			"phoneNumber": "(607) 935-0638"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Scarlett",
+					"middleName": "",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {
+					"start": "1988-06-26",
+					"end": "1989-06-25"
+				},
+				"gender": "female",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL860408",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Peter",
+					"middleName": "",
+					"lastName": "Clark"
+				},
+				"birthdayRange": {
+					"start": "1983-08-26",
+					"end": "1984-08-24"
+				},
+				"gender": "male",
+				"driversLicenseState": "WI",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL599733",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "progressive",
+		"issueDate": "2020-09-27",
+		"renewalDate": "2021-03-28",
+		"policyTermMonths": 6,
+		"premiumCents": 63003,
+		"policyHolder": {
+			"name": {
+				"firstName": "Victor",
+				"middleName": "",
+				"lastName": "Nguyen"
+			},
+			"address": {
+				"number": "717",
+				"street": "Quail",
+				"type": "Pkwy",
+				"suffix": "S",
+				"city": "Luella",
+				"state": "MA",
+				"zip": "18030"
+			}
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Victor",
+					"middleName": "",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "root",
+		"issueDate": "2020-12-03",
+		"renewalDate": "2021-06-03",
+		"policyTermMonths": 6,
+		"premiumCents": 63037,
+		"policyHolder": {
+			"name": {
+				"firstName": "Catherine",
+				"middleName": "",
+				"lastName": "Sanchez"
+			},
+			"address": {
+				"number": "771",
+				"street": "Elm Circle Suite 159",
+				"type": "Prt",
+				"city": "Karolannhaven",
+				"state": "CT",
+				"zip": "40523"
+			}
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Catherine",
+					"middleName": "",
+					"lastName": "Sanchez"
+				},
+				"birthdayRange": {
+					"start": "1993-08-01",
+					"end": "1993-08-01"
+				},
+				"gender": "female",
+				"driversLicenseState": "CT",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "DL106373",
+				"relationship": "Named Insured"
+			}
+		]
+	},
+	{
+		"issuer": "travelers",
+		"issueDate": "2020-09-11",
+		"renewalDate": "2021-03-12",
+		"policyTermMonths": 6,
+		"premiumCents": 72607,
+		"policyHolder": {
+			"name": {
+				"firstName": "Andrew",
+				"middleName": "",
+				"lastName": "Taylor"
+			},
+			"address": {
+				"number": "321",
+				"street": "Willow",
+				"type": "Ct",
+				"suffix": "E",
+				"city": "Raphaelchester",
+				"state": "AZ",
+				"zip": "91413",
+				"plus4": "5183"
+			},
+			"email": "Andrew.Taylor454@hotmail.com",
+			"phoneNumber": "(730) 685-1184"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Andrew",
+					"middleName": "",
+					"lastName": "Taylor"
+				},
+				"birthdayRange": {
+					"start": "1981-08-04",
+					"end": "1982-08-03"
+				},
+				"gender": "male",
+				"driversLicenseState": "AZ",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX9873",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Jennifer",
+					"middleName": "",
+					"lastName": "Taylor"
+				},
+				"birthdayRange": {
+					"start": "1978-02-14",
+					"end": "1979-02-13"
+				},
+				"gender": "female",
+				"driversLicenseState": "AZ",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX2753",
+				"relationship": "Spouse"
+			}
+		]
+	},
+	{
+		"issuer": "thegeneral",
+		"issueDate": "2020-10-05",
+		"renewalDate": "2021-04-06",
+		"policyTermMonths": 6,
+		"premiumCents": 56490,
+		"policyHolder": {
+			"name": {
+				"firstName": "Katrina",
+				"middleName": "U",
+				"lastName": "Nguyen"
+			},
+			"address": {
+				"city": "Suite 528 Wolfville",
+				"number": "139",
+				"state": "LA",
+				"street": "Rooselevelt Court",
+				"zip": "82364"
+			},
+			"email": "Katrina.Nguyen631@me.com",
+			"phoneNumber": "(315) 509-4008"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Katrina",
+					"middleName": "U",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1980-07-27",
+					"end": "1980-07-27"
+				},
+				"gender": "female",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX4940",
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Charlie",
+					"middleName": "",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1983-11-26",
+					"end": "1983-11-26"
+				},
+				"gender": "male",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "XXXXX1959",
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Sophia",
+					"middleName": "M",
+					"lastName": "Nguyen"
+				},
+				"birthdayRange": {
+					"start": "1999-03-25",
+					"end": "1999-03-25"
+				},
+				"gender": "female",
+				"driversLicenseState": "LA",
+				"driversLicenseStatus": "ValidUSLicense",
+				"driversLicenseNumber": "*****8392",
+				"relationship": "Child"
+			}
+		]
+	},
+	{
+		"issuer": "geico",
+		"issueDate": "2020-09-10",
+		"renewalDate": "2021-03-11",
+		"policyTermMonths": 6,
+		"premiumCents": 62459,
+		"policyHolder": {
+			"name": {
+				"firstName": "Hazel",
+				"middleName": "",
+				"lastName": "Scott"
+			},
+			"address": {
+				"number": "763",
+				"street": "Maple",
+				"type": "Ln",
+				"city": "Ledaberg",
+				"state": "TN",
+				"zip": "21392",
+				"plus4": "4637"
+			},
+			"email": "Hazel.Scott318@hotmail.com"
+		},
+		"operators": [
+			{
+				"isPrimary": true,
+				"name": {
+					"firstName": "Hazel",
+					"middleName": "",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1970-06-10",
+					"end": "1970-06-10"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Named Insured"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Eli",
+					"middleName": "",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "1970-11-28",
+					"end": "1970-11-28"
+				},
+				"gender": "male",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Spouse"
+			},
+			{
+				"isPrimary": false,
+				"name": {
+					"firstName": "Emily",
+					"middleName": "",
+					"lastName": "Scott"
+				},
+				"birthdayRange": {
+					"start": "2002-06-29",
+					"end": "2002-06-29"
+				},
+				"gender": "female",
+				"driversLicenseNumber": null,
+				"driversLicenseState": null,
+				"driversLicenseStatus": null,
+				"relationship": "Child"
+			}
+		]
+	}
+]
